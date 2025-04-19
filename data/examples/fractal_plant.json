@@ -1,0 +1,7 @@
+{
+    "axiom": "TF",
+    "variables": {"var1": "T", "var2": "F"},
+    "rules": {"r1":  "F+[[T]-T]-F[-FT]+T", "r2": "FF"},
+    "settings": {"angle": 25, "distance": 5, "headingAngle": 90, "turnLeftStack": 0, "turnRightStack": 0},
+    "goto" : {"x": 0, "y": -200}
+}

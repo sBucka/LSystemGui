@@ -1,0 +1,7 @@
+{
+    "axiom": "FX",
+    "variables": {"var1": "X", "var2": "Y"},
+    "rules": {"r1": "X+YF+", "r2": "-FX-Y"},
+    "settings": {"angle": 90, "distance": 5, "headingAngle": 0, "turnLeftStack": 0, "turnRightStack": 0},
+    "goto" : {"x": 0, "y": -200}
+}

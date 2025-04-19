@@ -1,0 +1,7 @@
+{
+    "axiom": "F-G-G",
+    "variables": {"var1": "F", "var2": "G"},
+    "rules": {"r1": "F-G+F+G-F", "r2": "GG"},
+    "settings": {"angle": 120, "distance": 5, "headingAngle": 0, "turnLeftStack": 0, "turnRightStack": 0},
+    "goto" : {"x": -200, "y": -200}
+}

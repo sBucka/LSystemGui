@@ -1,0 +1,7 @@
+{
+    "axiom": "0", 
+    "variables": {"var1": "1", "var2": "0"},  
+    "rules": {"r1": "11", "r2": "1[0]0"},
+    "settings": {"angle": 45, "distance": 2, "headingAngle": 90, "turnLeftStack": 45, "turnRightStack": 45}, 
+    "goto": {"x": 0, "y": -200}
+} 
